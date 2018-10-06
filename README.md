@@ -1,4 +1,4 @@
-##Steps of running this project
+# How To Run
 
 from the command prompt clone the project
 
